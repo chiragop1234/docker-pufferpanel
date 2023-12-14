@@ -54,7 +54,7 @@ EXPOSE 5657
 EXPOSE 5656
 
 # 8080 for WebServer
-EXPOSE 8080
+EXPOSE 2020
 
 # 25565 is the standard port for a minecraft server
 EXPOSE 25565
